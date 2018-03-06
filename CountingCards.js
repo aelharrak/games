@@ -29,5 +29,5 @@ function withSuffix(count) {
 }
 
 // Note: Only the last will display
-CountingCards(2); CountingCards('J'); CountingCards(9); CountingCards(2); CountingCards(7); 5 
+CountingCards(2); CountingCards('J'); CountingCards(9); CountingCards(2); CountingCards(7);
 CountingCards(2); CountingCards(3); CountingCards(7); CountingCards('K'); CountingCards('A');
